@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Successful Withdrawal from an account in credit" tests="4" skipped="2" failures="0" errors="0" timestamp="2018-12-17T22:42:54" hostname="Juans-MacBook-Pro-2.local" time="0.011">
+  <properties/>
+  <testcase name="Given I have deposited $100.00 in my account" classname="Scenario: Successful Withdrawal from an account in credit" time="0.0"/>
+  <testcase name="When I request $20" classname="Scenario: Successful Withdrawal from an account in credit" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Then $20 should be dispensed" classname="Scenario: Successful Withdrawal from an account in credit" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Scenario: Successful Withdrawal from an account in credit" time="0.193"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
